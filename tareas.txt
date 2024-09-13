@@ -1,0 +1,50 @@
+
+------------------------------
+Tï¿½tulo: suscripcion
+Descripciï¿½n: pagar factura 
+Fecha Lï¿½mite: 22-2-2-
+Prioridad: baja
+Descripciï¿½n: 3
+Fecha Lï¿½mite: 3d3d3d
+Prioridad: 33d
+------------------------------
+Tï¿½tulo: q
+Descripciï¿½n: q
+Fecha Lï¿½mite: q
+Prioridad: q
+Categoria: qq
+Estado: q
+------------------------------
+Tï¿½tulo: lanu
+Descripciï¿½n: des
+Fecha Lï¿½mite: 22344
+Prioridad: baja
+Categoria: concurso
+Estado: 3
+------------------------------
+Título: hola
+Descripción: tarea
+Fecha Límite: 2025-7-8
+Prioridad: media
+Descripción: curso
+Fecha Límite: 2025-6-22
+Prioridad: alta
+Categoria: tareas py
+Estado: 2
+------------------------------
+Id: 0
+Título: ttt
+Descripción: w
+Fecha Límite: w
+Prioridad: w
+Categoria: w
+Estado: da
+------------------------------
+Id: 0
+Título: 3f3
+Descripción: f
+Fecha Límite: f
+Prioridad: f
+Categoria: ff
+Estado: f
+------------------------------
