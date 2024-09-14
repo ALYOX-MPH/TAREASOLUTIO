@@ -48,3 +48,10 @@ Prioridad: f
 Categoria: ff
 Estado: f
 ------------------------------
+Título: solution
+Descripción: el pepe
+Fecha Límite: 2025-9-4
+Prioridad: alta
+Categoria: maricon
+Estado: incompleto
+------------------------------

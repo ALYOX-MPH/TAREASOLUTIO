@@ -15,16 +15,7 @@ Proporcionar la opción de eliminar una tarea específica a través de su identi
 2. Clasificación y Visualización
 
 Prioridad y Estado:
-Mostrar las tareas clasificadas por prioridad y estado.
-Posibilidad de ver tareas pendientes, en progreso y completadas por separado.
-Categorización:
-Permitir categorizar las tareas en diferentes etiquetas o categorías.
-Proporcionar una vista filtrada por categoría.
-3. Interactividad y Experiencia del Usuario
-
-Menús Interactivos:
-Implementar menús interactivos para facilitar la navegación y ejecución de acciones.
-Proporcionar opciones claras para realizar operaciones como agregar, ver, actualizar y eliminar tareas.
+Moss para realizar operaciones como agregar, ver, actualizar y eliminar tareas.
 Feedback al Usuario:
 Proporcionar mensajes claros y descriptivos para informar al usuario sobre el resultado de sus acciones.
 Manejar posibles errores y ofrecer sugerencias para corregirlos.
